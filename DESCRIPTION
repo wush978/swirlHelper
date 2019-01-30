@@ -1,0 +1,16 @@
+Package: swirlHelper
+Type: Package
+Title: My Helper Functions for Developing Swirl Courses
+Version: 0.1.0
+Author: Wush Wu
+Maintainer: Wush Wu <wush978@gmail.com>
+Description: For generating swirl course, checking contents and testing.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+Imports: 
+  ps,
+  subprocess,
+  swirl, 
+  magrittr
+RoxygenNote: 6.1.1
